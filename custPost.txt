@@ -1,0 +1,4 @@
+					SALES RECORD
+Customer_ID		Customer_Name		Destination		Total Postage(RM)
+S10001		Ameza		1
+S10001		Ameza
